@@ -1,0 +1,12 @@
+.app{
+    height: 100vh;
+    .form{
+        width: 40%;
+        border-radius: 20px;
+    }
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
